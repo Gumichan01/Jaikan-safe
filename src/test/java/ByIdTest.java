@@ -23,7 +23,7 @@ public class ByIdTest {
         assertEquals(33106, anime.id);
         assertEquals("Love Live! μ's Final Love Live! Opening Animation", anime.title);
         assertEquals("https://myanimelist.net/anime/33106/Love_Live_μs_Final_Love_Live_Opening_Animation", anime.url);
-        assertEquals("Original", anime.source);
+        assertEquals("Other", anime.source);
         assertEquals("Special", anime.type);
         assertEquals("5 min", anime.duration);
         assertEquals("G - All Ages", anime.rating);
